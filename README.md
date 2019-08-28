@@ -17,3 +17,7 @@
  ficando assim:
  
  ![image](https://github.com/anderson-raber/sfp_mikrotik/blob/master/Anota%C3%A7%C3%A3o%202019-08-28%20105457.png)
+
+ ![image](https://github.com/anderson-raber/sfp_mikrotik/blob/master/Anota%C3%A7%C3%A3o%202019-08-28%20132230.png)
+
+ ![image](https://github.com/anderson-raber/sfp_mikrotik/blob/master/Anota%C3%A7%C3%A3o%202019-08-28%20132251.png)
