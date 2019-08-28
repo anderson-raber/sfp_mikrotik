@@ -1,17 +1,17 @@
 # sfp_mikrotik
 
-#Template para monitoramento de interfaces SFP de equipamentos Mikrotik
+## Template para monitoramento de interfaces SFP de equipamentos Mikrotik
 
-#Monitora:
+## Monitora:
  - Tx
  - RX
  - Temperatura
 
-#Triggers:
+## Triggers:
  - Variação de sinal de tx/x
  - Alarme de temperatura
  
- #Importante:
+ # Importante:
  Criar uma nova expressão regular no zabbix, nomear "sfp", tipo de expressão "resultado VERDADEIRO", expressão ^[Ss]fp
  
  ficando assim:
